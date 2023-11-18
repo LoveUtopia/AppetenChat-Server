@@ -1,0 +1,20 @@
+﻿  CKernel.cpp
+D:\C++\myqq\network_IMSever\CKernel.cpp(187,67): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(216,62): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(240,64): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(280,64): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(313,64): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(339,80): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(418,64): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(466,64): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(477,86): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(496,91): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(500,89): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(526,89): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(551,91): warning C4244: “参数”: 从“unsigned __int64”转换到“long”，可能丢失数据
+D:\C++\myqq\network_IMSever\CKernel.cpp(574,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++\myqq\network_IMSever\CKernel.cpp(580,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++\myqq\network_IMSever\CKernel.cpp(604,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++\myqq\network_IMSever\CKernel.cpp(610,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++\myqq\network_IMSever\CKernel.cpp(626,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  network_IMSever.vcxproj -> D:\C++\myqq\network_IMSever\x64\Debug\network_IMSever.exe

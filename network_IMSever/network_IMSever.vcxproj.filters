@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\NewFilter1">
+      <UniqueIdentifier>{21493156-4a86-41db-a782-02b049f11d10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inet">
+      <UniqueIdentifier>{69bec023-bf4f-4bc2-96e5-cc5923818c94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inetMediator">
+      <UniqueIdentifier>{cc06d29d-af65-42c7-b37c-0b721030f175}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mysql">
+      <UniqueIdentifier>{f00b64dc-d556-4480-ae0b-8859f008537d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inet\inet.h">
+      <Filter>inet</Filter>
+    </ClInclude>
+    <ClInclude Include="inet\TcpClient.h">
+      <Filter>inet</Filter>
+    </ClInclude>
+    <ClInclude Include="inet\TcpSever.h">
+      <Filter>inet</Filter>
+    </ClInclude>
+    <ClInclude Include="inet\UdpNet.h">
+      <Filter>inet</Filter>
+    </ClInclude>
+    <ClInclude Include="inetMediator\inetMediator.h">
+      <Filter>inetMediator</Filter>
+    </ClInclude>
+    <ClInclude Include="inetMediator\TcpClientMediator.h">
+      <Filter>inetMediator</Filter>
+    </ClInclude>
+    <ClInclude Include="inetMediator\TcpSeverMediator.h">
+      <Filter>inetMediator</Filter>
+    </ClInclude>
+    <ClInclude Include="inetMediator\UdpNetMediator.h">
+      <Filter>inetMediator</Filter>
+    </ClInclude>
+    <ClInclude Include="inet\packDef.h">
+      <Filter>inet</Filter>
+    </ClInclude>
+    <ClInclude Include="CKernel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mysql\CMySql.h">
+      <Filter>mysql</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="inet\TcpClient.cpp">
+      <Filter>inet</Filter>
+    </ClCompile>
+    <ClCompile Include="inet\TcpSever.cpp">
+      <Filter>inet</Filter>
+    </ClCompile>
+    <ClCompile Include="inet\UdpNet.cpp">
+      <Filter>inet</Filter>
+    </ClCompile>
+    <ClCompile Include="inetMediator\TcpClientMediator.cpp">
+      <Filter>inetMediator</Filter>
+    </ClCompile>
+    <ClCompile Include="inetMediator\TcpSeverMediator.cpp">
+      <Filter>inetMediator</Filter>
+    </ClCompile>
+    <ClCompile Include="inetMediator\UdpNetMediator.cpp">
+      <Filter>inetMediator</Filter>
+    </ClCompile>
+    <ClCompile Include="network_IMsever.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CKernel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mysql\CMySql.cpp">
+      <Filter>mysql</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

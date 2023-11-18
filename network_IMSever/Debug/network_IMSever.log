@@ -1,0 +1,6 @@
+﻿  CKernel.cpp
+  TcpSeverMediator.cpp
+  network_IMsever.cpp
+  正在生成代码...
+D:\C++\myqq\network_IMSever\CKernel.cpp(17): warning C4715: “CKernel::startSever”: 不是所有的控件路径都返回值
+  network_IMSever.vcxproj -> D:\C++\myqq\network_IMSever\Debug\network_IMSever.exe
